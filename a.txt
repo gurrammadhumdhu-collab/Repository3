@@ -1,4 +1,0 @@
-class Test(models.Model)
-	name=models.CharField(max_length)
-	id=models.IntegerField()
-	fees=models.IntergerField()
