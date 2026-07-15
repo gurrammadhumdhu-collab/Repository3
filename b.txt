@@ -1,0 +1,2 @@
+Example 2
+Now about git stash apply doing for confirmation
