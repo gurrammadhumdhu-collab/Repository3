@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 Example 2
 Now about git stash apply doing for confirmation
+=======
+Example for stash 1
+For my confirmation doing again about git stash
+>>>>>>> Stashed changes
