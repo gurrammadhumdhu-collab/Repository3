@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 Story -2
 after completiong stage-1
+=======
+Story 121
+Hello i'm about git stash for first about you
+>>>>>>> Stashed changes
