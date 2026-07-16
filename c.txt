@@ -1,1 +1,0 @@
-Hello GitHub now i am doing about revert using git revert HEAD
