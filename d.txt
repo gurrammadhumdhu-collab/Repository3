@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 hai hello how are you
 i am the text after the stash
+=======
+Hai hello How Are you man
+I am the text before git stash
+>>>>>>> Stashed changes
